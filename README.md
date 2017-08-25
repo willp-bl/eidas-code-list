@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# List of public eIDAS code
 
-You can use the [editor on GitHub](https://github.com/willp-bl/eidas-code-list/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Submit PRs at https://github.com/willp-bl/eidas-code-list
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a list based on github searches, corrections/additions welcome
 
-### Markdown
+## CEF Reference Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [newer releases](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eIDAS-Node+-+All+releases)
+* [older releases](https://joinup.ec.europa.eu/software/cefeid/release/all)
 
-```markdown
-Syntax highlighted code block
+## UK
 
-# Header 1
-## Header 2
-### Header 3
+* [Fork of eIDAS reference code](https://github.com/alphagov/eidas-reference)
+* [alpha connector for GOV.UK Verify](https://github.com/alphagov/verify-eidas-bridge)
 
-- Bulleted
-- List
+## Sweden
 
-1. Numbered
-2. List
+* [github pages docs](https://litsec.github.io/eidas-opensaml/)
+* [eidas-opensaml code](https://github.com/litsec/eidas-opensaml)
+* [technical framework](https://github.com/elegnamnden/technical-framework)
 
-**Bold** and _Italic_ and `Code` text
+## Netherlands
 
-[Link](url) and ![Image](src)
-```
+* [code](https://github.com/Dictu?q=eidas)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Finland
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willp-bl/eidas-code-list/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [code](https://github.com/vrk-kpa?q=e-identification)
