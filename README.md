@@ -1,8 +1,6 @@
 # List of public eIDAS code
 
-Submit PRs at https://github.com/willp-bl/eidas-code-list
-
-This is a list based on github searches, corrections/additions welcome
+This is a list based on github searches, corrections/additions welcome.  [Click to make a PR](https://github.com/willp-bl/eidas-code-list)
 
 ## CEF Reference Code
 
