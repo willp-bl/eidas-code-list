@@ -54,6 +54,10 @@ This is a list based on github searches, corrections/additions welcome.  [Click 
 
 * https://github.com/CASeIDAS/CASeIDAS-Project [Spain?]
 
+## Switzerland?
+
+* https://github.com/SCS-CBU-CED-IAM/AIS
+
 ## Others
 
 * https://github.com/OpenConext/OpenConext-eidas
