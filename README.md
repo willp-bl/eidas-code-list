@@ -50,13 +50,16 @@ This is a list based on github searches, corrections/additions welcome.  [Click 
 
 * https://github.com/psmiraglia/eidas-log-poc
 
+## Spain?
+
+* https://github.com/CASeIDAS/CASeIDAS-Project [Spain?]
+
 ## Others
 
 * https://github.com/OpenConext/OpenConext-eidas
 * https://github.com/PeculiarVentures/xadesjs
 * https://github.com/PeculiarVentures/tl-create
-* https://github.com/CASeIDAS/CASeIDAS-Project [Spain?]
 * https://github.com/joergenb/eidas-dsf
 * https://github.com/spopoff?tab=repositories&q=eidas [French?]
-
+* https://github.com/RRisto/eIDAs-trusted-list
 
