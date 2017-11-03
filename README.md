@@ -73,4 +73,9 @@ This is a list based on github searches, corrections/additions welcome.  [Click 
 * https://github.com/joergenb/eidas-dsf
 * https://github.com/spopoff?tab=repositories&q=eidas [French?]
 * https://github.com/RRisto/eIDAs-trusted-list
+* https://github.com/adanar/eIDAS-SP-SAML-Tools-Library
+* https://github.com/le-du6/x509-certificate-parser [?]
+* https://github.com/endimion/eIDASLoginWebApp [Greek?]
+* https://github.com/endimion/eIDASLoginMicroServ [Greek?]
+ 
 
