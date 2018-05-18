@@ -11,9 +11,10 @@ This is a list based on github searches, corrections/additions welcome.  [Click 
 
 * [Fork of eIDAS reference code](https://github.com/alphagov/eidas-reference)
 * [acceptance tests for eIDAS reference code](https://github.com/alphagov/eidas-reference-acceptance-tests)
-* [alpha connector for GOV.UK Verify](https://github.com/alphagov/verify-eidas-bridge)
+* [alpha connector for GOV.UK Verify (deprecated)](https://github.com/alphagov/verify-eidas-bridge)
 * [eIDAS proxy node implementation](https://github.com/alphagov/verify-eidas-notification)
 * [Verify SAML Libraries](https://github.com/alphagov?utf8=✓&q=saml)
+* [Verify hub/stub/library code](https://github.com/alphagov/?q=verify-&type=&language=)
 
 ### non-eIDAS
 
@@ -38,6 +39,7 @@ This is a list based on github searches, corrections/additions welcome.  [Click 
 ## Germany
 
 * [code](https://github.com/Governikus/eIDAS-Node-SDK)
+* [middleware](https://github.com/Governikus/eidas-middleware)
 
 ## Estonia
 
